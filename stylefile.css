@@ -20,17 +20,15 @@
   
   }
   #artTable tr.header, #artTable tr:hover {
-    background-color: #e1ddc9;
+    background-color: #ffffff;
   
   }
   a {
-    color: #34431D;
+    color: #c1aea7;
   }
   <!-- h1 is the biggest heading, h2 is the big heading, h3 is the smaller heading, p is just plain text. a seem to be used for links -->
-  h2, p, th, tr {
+  h1, h3, h2, p, th, tr {
     font-family: 'Nunito Sans', sans-serif;
+    color: #627368;
   }
-  h1, h3 {
-    font-family: 'Nunito Sans', sans-serif;
-    color: #34431D;
-  }
+ 
