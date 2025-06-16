@@ -26,10 +26,13 @@
   a {
     color: #34431D;
   }
-  
-  h2, h1, p, th, tr {
+  <!-- h1 is the biggest heading, h2 is the big heading, h3 is the smaller heading, p is just plain text. a seem to be used for links -->
+  h2, p, th, tr {
     font-family: 'Nunito Sans', sans-serif;
   }
   h1 {
     color: #f56642;
+  }
+  h1, h3 {
+    color: #34431D;
   }
